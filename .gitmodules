@@ -1,0 +1,9 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/buildroot/buildroot.git
+[submodule "lvgl_app/lvgl"]
+	path = lvgl_app/lvgl
+	url = https://github.com/littlevgl/lvgl.git
+[submodule "lvgl_app/lv_drivers"]
+	path = lvgl_app/lv_drivers
+	url = https://github.com/littlevgl/lv_drivers.git
