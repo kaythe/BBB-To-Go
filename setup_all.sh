@@ -13,7 +13,7 @@ pushd buildroot
 		sudo rm arm-buildroot-linux-uclibcgnueabihf_sdk-buildroot.tar.gz
 	popd
 	
-	echo "PATH=\"/opt/arm-buildroot-linux-uclibcgnueabihf_sdk-buildroot/bin:$PATH\"" >> ~/.profile
+	echo "PATH=\"/opt/arm-buildroot-linux-uclibcgnueabihf_sdk-buildroot/bin:\$PATH\"" >> ~/.profile
 	source ~/.profile
 popd
 
