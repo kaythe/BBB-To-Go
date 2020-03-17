@@ -4,3 +4,7 @@
 [submodule "lvgl_app/lv_drivers"]
 	path = lvgl_app/lv_drivers
 	url = https://github.com/kaythe/lv_drivers.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/kaythe/buildroot.git
+	branch = BBB-To-Go-Develop
