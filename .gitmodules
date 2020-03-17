@@ -1,6 +1,3 @@
-[submodule "buildroot"]
-	path = buildroot
-	url = https://github.com/buildroot/buildroot.git
 [submodule "lvgl_app/lvgl"]
 	path = lvgl_app/lvgl
 	url = https://github.com/kaythe/lvgl.git
